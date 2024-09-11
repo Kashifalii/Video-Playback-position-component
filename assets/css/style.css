@@ -1,0 +1,26 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: sans-serif;
+}
+
+header {
+    height: 100vh;
+    background: #232323;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 10px;
+}
+
+
+header video {
+    width: 500px;
+    height: 400px;
+}
+
+header p {
+    font-size: 17px;
+    color: whitesmoke;
+}
